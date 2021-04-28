@@ -1,4 +1,4 @@
-# twitterCloneReactNative
+# Twitter Clone React-Native
 
 ## Checkout DEMO on Expo:
 
